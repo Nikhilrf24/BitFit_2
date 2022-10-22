@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BitFit_2</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="viewlist">ViewList</string>
+</resources>
