@@ -2,7 +2,7 @@
 
 Submitted by: **Nikhil Joshi**
 
-**BitFit2** is a health metrics app that allows users to track [Sleep] 
+**BitFit2** is a health metrics app that allows users to track Sleep
 
 Time spent: **5** hours spent in total
 
